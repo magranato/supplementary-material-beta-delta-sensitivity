@@ -8,26 +8,24 @@ accepted for publication in *IEEE Control Systems Letters (L-CSS)*.
 
 ## Purpose of the Repository
 
-The material provided here is intended to complement the numerical discussion presented in the paper, with a particular focus on illustrating the sensitivity of the proposed iterative algorithm with respect to the scalar parameters $\beta$ and $\delta$.
+The purpose of this repository is to provide extended numerical results that complement the numerical example presented in the paper. In particular, the supplementary material illustrates the sensitivity of the proposed iterative algorithm with respect to the scalar parameters $\beta$ and $\delta$.
 
-In the manuscript, this sensitivity is discussed at a qualitative level due to space limitations inherent to the letter format. The present repository provides additional numerical data and scripts that may be of interest to readers seeking further empirical insight. The content of this repository is **not required** to understand, reproduce, or validate the theoretical results of the paper.
+Due to the space constraints inherent to the letter format, the manuscript discusses this aspect at a qualitative level. The material provided here is intended to offer additional empirical insight for interested readers and does not constitute an integral part of the published paper.
 
 ## Contents
 
 The repository includes:
-- Scripts used to generate additional numerical experiments with varying values of \(\beta\) and \(\delta\);
-- Data files summarizing the observed convergence behavior (e.g., number of iterations);
-- Optional scripts for post-processing and visualization of the results.
+- A PDF document containing extended numerical results and additional simulations related to the numerical example presented in the paper.
 
-A brief description of each file and its usage is provided within the corresponding directories.
+The PDF can be viewed independently and does not require any additional files or software.
 
-## Scope and Limitations
+## Scope and Disclaimer
 
-The numerical results provided here are illustrative in nature and are intended to complement the qualitative observations reported in the paper. They do not alter the theoretical developments, proofs, or guarantees established in the manuscript.
+The supplementary numerical results are illustrative and exploratory in nature. They do not modify, extend, or replace the theoretical developments, proofs, or guarantees established in the manuscript. The conclusions of the paper remain fully supported by the material included in the published article.
 
-## Citation and Use
+## Citation
 
-If you find this supplementary material useful for your own work, please cite the associated paper. This repository is provided for academic and research purposes only.
+If you find this supplementary material useful, please cite the associated paper. This repository is provided solely as an auxiliary resource for interested readers.
 
 ## Contact
 
