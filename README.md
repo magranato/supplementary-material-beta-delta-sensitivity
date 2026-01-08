@@ -2,13 +2,13 @@
 
 This repository contains supplementary numerical material associated with the paper
 
-> **An Iterative LMI-Based Approach for Reduced-Order \(\mathcal{H}_{\infty}\) Filtering of Discrete-Time Hidden Markov Jump Linear Systems**
+> **An Iterative LMI-Based Approach for Reduced-Order $\mathcal{H}_{\infty}$ Filtering of Discrete-Time Hidden Markov Jump Linear Systems**
 
 accepted for publication in *IEEE Control Systems Letters (L-CSS)*.
 
 ## Purpose of the Repository
 
-The material provided here is intended to complement the numerical discussion presented in the paper, with a particular focus on illustrating the sensitivity of the proposed iterative algorithm with respect to the scalar parameters \(\beta\) and \(\delta\).
+The material provided here is intended to complement the numerical discussion presented in the paper, with a particular focus on illustrating the sensitivity of the proposed iterative algorithm with respect to the scalar parameters $\beta$ and $\delta$.
 
 In the manuscript, this sensitivity is discussed at a qualitative level due to space limitations inherent to the letter format. The present repository provides additional numerical data and scripts that may be of interest to readers seeking further empirical insight. The content of this repository is **not required** to understand, reproduce, or validate the theoretical results of the paper.
 
